@@ -1,3 +1,3 @@
 my readme
 
-added version 0.0.1
+added version 0.0.2
